@@ -18,7 +18,6 @@ social: true # includes social icons at the bottom of the page
 "Two roads diverged in a wood, and I—
   
 I took the one less traveled by,
-
 And that has made all the difference."
 </blockquote>
 
