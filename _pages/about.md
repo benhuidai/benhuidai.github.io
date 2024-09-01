@@ -6,7 +6,7 @@ subtitle: PhD student | EPFL
 
 profile:
   align: right
-  image: 
+  image: profolio.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
