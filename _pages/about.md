@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 </blockquote>
 
-I'm currently pursuing my Ph.D. in Robotics, Control and Intelligent Systems (EDRS) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, working with [Prof. Josie Hughes](https://people.epfl.ch/josie.hughes?lang=en) in [CREATE Lab](https://www.epfl.ch/labs/create/). Before this, I received my M.Eng. degree from Zhejiang University (ZJU), Hangzhou, China, working with [Prof. Lijuan Xie](https://person.zju.edu.cn/0009667) in [IBE team](https://ibe.zju.edu.cn/), and my B.Eng. in Mechanical Engineering at Zhejiang University of Technology (ZJUT), Hangzhou, China.
+I'm currently pursuing my Ph.D. in Robotics, Control and Intelligent Systems (EDRS) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, working with [Prof. Josie Hughes](https://people.epfl.ch/josie.hughes?lang=en) in [CREATE Lab](https://www.epfl.ch/labs/create/). Before this, I received my M.Eng. degree from Zhejiang University (ZJU), China, working with [Prof. Lijuan Xie](https://person.zju.edu.cn/0009667) in [IBE team](https://ibe.zju.edu.cn/), and my B.Eng. in Mechanical Engineering at Zhejiang University of Technology (ZJUT), China.
 
 I grew up in multi- & inter-disciplines (mechanics, biosystems, materials, arts, etc.) and am working on robotics and human-robot-environment interactions.
 
