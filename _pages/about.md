@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="B9tSx5U5dn7UaNpyuZEr34Y_nw1PANEn4yOVYQ2ymBQ" />
-
 ---
 layout: about
 title: about
@@ -15,6 +13,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<meta name="google-site-verification" content="B9tSx5U5dn7UaNpyuZEr34Y_nw1PANEn4yOVYQ2ymBQ" />
 
 > "Two roads diverged in a wood, and I—
 >
